@@ -2,7 +2,7 @@
 
 Node.js Homework 01
 
-## Command run screenshots:
+## The screenshots of a command run:
 
 1. We receive and display the entire list of contacts in the form of a table
    (console.table) <br>[node index.js --action list](https://ibb.co/FqmPgRz)
